@@ -15,7 +15,7 @@
        [3.2 Implémentation](#implementation)\
        [3.3 Avantages et inconvénients de DBSCAN](#avantages-et-inconvenients-de-dbscan)\
        [3.4 Complexité temporelle de DBSCAN](#complexite-temporelle-de-dbscan)\
-[5. Conclusion](#conclusion)
+[4. Conclusion](#conclusion)
 
 ## Introduction
 Définie par l'Encyclopédie Larousse comme étant _l'ensemble des théories et des techniques mises en oeuvre en vue de réaliser des machines capables de simuler l'intelligence humaine_, l'intelligence artificielle fait l'objet de nombreuses controverses depuis 1956. De l'apprentissage automatique à l'apprentissage profond en passant par les réseaux de neurones, l'IA donne naissance à de nouvelles disciplines et technologies soulevant parfois de nombreuses questions éthiques ou sociétales.

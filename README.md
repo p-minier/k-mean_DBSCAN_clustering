@@ -40,7 +40,7 @@ Pour lancer DBSCAN sur le dataset donuts, avec $\epsilon=0.5$ et un nombre minim
 ```
 
 ### Sorties
-Les résultats sont écrit dans le dossier [output/kmean](https://github.com/Adrial-Knight/k-mean_DBSCAN_clustering/tree/main/src/c/output/kmean) ou [output/dbscan](https://github.com/Adrial-Knight/k-mean_DBSCAN_clustering/tree/main/src/c/output/dbscan) avec:
+Les résultats sont écrits dans le dossier [output/kmean](https://github.com/Adrial-Knight/k-mean_DBSCAN_clustering/tree/main/src/c/output/kmean) ou [output/dbscan](https://github.com/Adrial-Knight/k-mean_DBSCAN_clustering/tree/main/src/c/output/dbscan) avec:
 - un fichier `.txt` donnant certaines métriques sur le clustering effectué
 - un fichier `.svg` pour visualiser les clusters.
 
